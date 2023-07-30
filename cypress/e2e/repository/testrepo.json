@@ -1,0 +1,12 @@
+{
+    "login":{
+        "userName": "#Email",
+        "password": "#Password",
+        "submit": "[type=submit]"
+    },
+   "Registration": {
+     "check1": "#checkbox1",
+     "check2":"#checkbox2",
+     "check3":"#checkbox3"  
+   }
+}
